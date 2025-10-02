@@ -1,0 +1,32 @@
+{
+  "name": "Mody e__s",
+  "description": "Mody e__s pod pvp, nie wszystkie mody dodane bo nie ma api curseforge pod pobieranie modow",
+  "version": "1.0.0",
+  "mcVersion": "1.19.2",
+  "loader": "fabric",
+  "author": "tomel999",
+  "modIds": [
+    "EsAfCjCV",
+    "o4y0N2hu",
+    "lbOOPeKq",
+    "e0M1UDsY",
+    "dbu8vyp0",
+    "CcL3MXyI",
+    "J267enD3",
+    "Y8uFrUil",
+    "tJzrFuyy",
+    "B3HO5V57",
+    "uDMPYwAN",
+    "sRkxSKOU",
+    "MR1VIQJJ",
+    "aC3cM3Vq",
+    "BFiJtNgD",
+    "GtqG8z1h",
+    "iG6ZHsUV",
+    "mB8GNQWO",
+    "GiriLmaY",
+    "kYuIpRLv",
+    "CcxcmoLQ",
+    "1eAoo2KR"
+  ]
+}
